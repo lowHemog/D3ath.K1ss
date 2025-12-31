@@ -2,9 +2,9 @@
 
 Virus que destrói por completo o pc da vitima.
 ## Funções:
-Modificação de arquivo de 3 etapas, deixando impossivel recuperação, logo após isso deleta o arquivo
-Remoção de shadow copies para qualquer tentativa de recuperação de dados
-Destruição do Boot, tornando o windows inutil.
+- Modificação de arquivo de 3 etapas, deixando impossivel recuperação, logo após isso deleta o arquivo
+- Remoção de shadow copies para qualquer tentativa de recuperação de dados
+- Destruição do Boot, tornando o windows inutil.
 
 Enquanto ataque ocorre, o death kiss bloqueia o gerenciador de tarefas, tornando muito dificil fechar o virus;
 Além disso, o virus cria message boxs infinitas para impedir qualquer ação do usuario.
